@@ -60,6 +60,10 @@ body.like {
   font-size: 23px;
   font-weight: 500;
 }
+.section .sentence strong {
+  font-size: 16px;
+  font-weight: 400;
+}
 .wrapper .slider {
   margin-top: 40px;
   height: 12px;
